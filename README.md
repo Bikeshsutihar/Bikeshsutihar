@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Bikesh Kumar Sutihar</h1>
 
@@ -22,7 +21,21 @@ Laravel Developer | BCA Student | Nepal 🇳🇵
 
 PHP • Laravel • JavaScript • HTML • CSS • Tailwind CSS • MySQL • Git • GitHub
 
+![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
+
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss)
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+
 ---
+
+
 
 ## 📫 Connect With Me
 
