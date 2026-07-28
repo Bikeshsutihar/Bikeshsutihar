@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**Bikeshsutihar/Bikeshsutihar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Bikesh Kumar Sutihar</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+Laravel Developer | BCA Student | Nepal 🇳🇵
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Currently building Laravel Projects
+- 🌱 Learning Advanced Laravel & REST APIs
+- 💻 Passionate about Web Development
+- 🎯 Goal: Become a Software Engineer
+- 🇳🇵 From Nepal
+
+---
+
+## 🚀 Tech Stack
+
+PHP • Laravel • JavaScript • HTML • CSS • Tailwind CSS • MySQL • Git • GitHub
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn:
+www.linkedin.com/in/bikesh-kumar-sutihar-684614298
+
+Email:
+bikeshsutihar@email.com
+
