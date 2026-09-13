@@ -13,7 +13,9 @@ Laravel Developer | BCA Student | Nepal 🇳🇵
 - 🌱 Learning Advanced Laravel & REST APIs
 - 💻 Passionate about Web Development
 - 🎯 Goal: Become a Software Engineer
+- I build secure, scalable business systems and automation for a specific industry
 - 🇳🇵 From Nepal
+  
 
 ---
 
